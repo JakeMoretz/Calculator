@@ -1,0 +1,26 @@
+button {
+    height: 100px;
+    width: 100px
+}
+
+.calculator-display {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 200px;
+    font-size: 30px;
+    
+}
+
+.operator {
+    font-size: 30px;            ;
+}
+
+.number {
+    font-size: 40px;
+}
+
+.clear {
+    font-size: 30px;
+}
